@@ -2,7 +2,7 @@
   "name": "broccoli-taco",
   "version": "0.0.9",
   "description": "Broccoli based static site generator",
-  "repository": "https://github.com/moudy/broccoli-taco",
+  "repository": "https://github.com/weahead/broccoli-taco",
   "main": "index.js",
   "bin": {
     "broccoli-taco": "./bin/broccoli-taco"
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Moudy",
+  "author": "Moudy & We ahead",
   "license": "MIT",
   "dependencies": {
     "broccoli": "^0.16.0",
